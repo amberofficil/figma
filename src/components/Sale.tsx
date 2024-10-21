@@ -8,7 +8,7 @@ function Sale(){
             <div className=" sm:w-full md:w-full lg:w-[80%] h-full">
                 {/* top side */}
                 <div className="sm:pl-5 md: pl-0">
-                <span className="border-l-8 border-red-500 text-red-500 mb-5 font-bold">Today's</span>
+                <span className="border-l-8 border-red-500 text-red-500 mb-5 font-bold">Today&apos;s</span>
                 <h2 className="text-4xl font-bold mt-5">Flash Sales</h2>
                 </div>
             {/* products */}
