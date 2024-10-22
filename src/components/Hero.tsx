@@ -1,4 +1,3 @@
-/* ESLINT-DISABLE @TYPESCRIPT-ESLINT/NO-UNUSED-VARS*/
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faApple } from '@fortawesome/free-brands-svg-icons';
 import Image from 'next/image';

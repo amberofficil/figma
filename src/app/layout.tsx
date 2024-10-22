@@ -1,5 +1,4 @@
-/* ESLINT-DISABLE @TYPESCRIPT-ESLINT/NO-UNUSED-VARS*/
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 import type { Metadata } from "next";
 import localFont from "next/font/local";
